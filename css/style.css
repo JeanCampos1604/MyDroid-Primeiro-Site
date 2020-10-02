@@ -129,8 +129,13 @@ a:hover{
     top: 770px;
 }
 
-.ancoraandroid11{
-    text-align: justify;
+#ancoraandroid11{
+    align-items: center;
+    border-style: solid;
+    border-color: gray;
     display: inline-block;
 }
 
+#olancora{
+    margin: 5px 5px 2px 1px;
+}
